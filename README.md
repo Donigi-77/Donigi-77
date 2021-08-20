@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Donigi-77
-- 👀 I’m interested in bikes, coding & fun stuff
+- 👀 I’m interested in bikes & fun stuff
 - 🌱 I’m currently learning nothing special at the moment
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me trough github.com/Donigi-77
