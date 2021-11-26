@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me trough  [Github - @Donigi-77](https://github.com/Donigi-77) ,  [Twitter-@Donigi77](https://twitter.com/@Donigi77)
 
+![](img/https://github.com/Donigi-77/Donigi-77/blob/9eb0924abbbb42d963d26f61c3a904030482ba4d/Liljon%20gif.webpp)
 
 <img srce="https://github-readme-stats.vercel.app/api?username=Donigi-77&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
