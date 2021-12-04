@@ -3,7 +3,6 @@
 - 👀 I’m interested in bikes & fun stuff
 - 🌱 I’m currently learning nothing special at the moment
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me trough  [Github - @Donigi-77](https://github.com/Donigi-77) ,  [Twitter-@Donigi77](https://twitter.com/@Donigi77)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Donigi-77)](https://github.com/anuraghazra/github-readme-stats)
 
