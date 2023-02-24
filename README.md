@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @Donigi-77
 
 - 👀 I’m interested in bikes & fun stuff
-- 🌱 I’m currently learning nothing special at the moment
+- 🌱 I’m currently learning nothing special
 - 💞️ I’m looking to collaborate on ...
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Donigi-77)](https://github.com/anuraghazra/github-readme-stats)
